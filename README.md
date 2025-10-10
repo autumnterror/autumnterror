@@ -35,7 +35,7 @@ I'm a passionate backend developer who loves building robust, efficient, and sca
 - 🔭 I’m currently working on **[BreezyNotes](breezynotes.ru)**.
 - 🌱 I’m currently learning more about **Kubernetes and advanced system design patterns**.
 - 💬 Ask me about **Go, backend development, databases, or API design**.
-- 📫 How to reach me: **[about.breezynotes.ru]**
+- 📫 How to reach me: **[breezynotes](contacts.breezynotes.ru)**
 
 ---
 
