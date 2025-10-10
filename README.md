@@ -32,10 +32,10 @@ I'm a passionate backend developer who loves building robust, efficient, and sca
 
 ### 🚀 What I'm up to
 
-- 🔭 I’m currently working on **[BreezyNotes](breezynotes.ru)**.
+- 🔭 I’m currently working on **[BreezyNotes](https://about.breezynotes.ru)**.
 - 🌱 I’m currently learning more about **Kubernetes and advanced system design patterns**.
 - 💬 Ask me about **Go, backend development, databases, or API design**.
-- 📫 How to reach me: **[breezynotes](contacts.breezynotes.ru)**
+- 📫 How to reach me: **[breezynotes contacts](https://contacts.breezynotes.ru)**
 
 ---
 
