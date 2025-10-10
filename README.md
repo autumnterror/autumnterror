@@ -54,7 +54,7 @@ I'm a passionate backend developer who loves building robust, efficient, and sca
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [welcome](https://blog.breezynotes.com/welcome)
+- [Why is BreezyNotes?](https://blog.breezynotes.ru/#/BreezyNotes_Ad)
 <!-- BLOG-POST-LIST:END -->
 
 ---
