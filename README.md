@@ -43,19 +43,12 @@ I'm a passionate backend developer who loves building robust, efficient, and sca
 
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=autumnterror&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autumnterror&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" />
   </a>
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 📝 Latest Blog Posts
