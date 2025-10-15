@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gleb
+# 👋 Hello
 
 **Backend Engineer**
 
