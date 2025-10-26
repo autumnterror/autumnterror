@@ -2,7 +2,7 @@
 
 **Backend Engineer**
 
-I'm a passionate backend developer who loves building robust, efficient, and scalable systems. My language of choice is **Go** (Golang), and I enjoy diving deep into distributed systems, databases, and clean architecture.
+I'm a backend developer who loves building robust, efficient, and scalable systems. My language of choice is **Go** (Golang), and I enjoy diving deep into distributed systems, databases, and clean architecture.
 
 ---
 
